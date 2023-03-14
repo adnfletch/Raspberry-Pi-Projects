@@ -34,3 +34,4 @@ add_compile_options(-Wall
 # Hardware-specific examples in subdirectories:
 add_subdirectory(adc)
 add_subdirectory(FreeRTOS_proj)
+add_subdirectory(Mutexes)
